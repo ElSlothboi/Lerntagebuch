@@ -9,4 +9,8 @@ Mir war vor Beginn des Semesters noch nicht ganz klar, was genau in BAIN auf uns
 
 Doch ich will mich nicht nur beklagen, denn die zweite Hälfte des Moduls entsprach mir sehr und sorgte dementsprechend auch für etwas mehr Klarheit. Die Arbeit mit Metadaten-Schnittstellen wie bspw. OAI-PMH war spannend und die durchgeführten Praxisübungen liessen einen näher an die Materie herankommen. Auch die Einblicke in Programme wie OpenRefine, welches mir bis dato unbekannt war und in Zukunft sicher zur Verwendung kommen wird, waren äusserst aufschlussreich und hätten meiner Meinung nach ein bisschen mehr in die Tiefe gehen können. Auch die Crosswalks, also die Konvertierungen von Metadaten in andere Standards, hätten gerne etwas mehr Platz einnehmen dürfen. Ein tieferer Einblick in XSLT, GREL oder generell in die Programmierung von Metadaten-Konvertierung (Auf was gilt es zu achten? Bevorzugte Programmiersprachen? etc.) wäre sehr spannend und vielleicht auch hilfreich für das Berufsleben und zukünftige Arbeit in Projekten. 
 
+![image](https://user-images.githubusercontent.com/91458246/151666022-041bee75-8489-4875-9d9c-49e24754295c.png)
+Das ganze ergibt plötzlich Sinn
+
+Rückblickend stellt sich heraus, dass das etwas verwirrende Schaubild aus der ersten Vorlesung plötzlich Sinn ergibt. Das Harvesting der Metadaten aus den verschiedenen Ursprungssystemen Koha, ArchivesSpace und DSpace via OAI-MPH-Schnittstelle, die daraufhinfolgende Konvertierung in einen gemeinsamen Metadaten-Standard via MarcEdit und die folgende Importierung in das auf Solr basierende Discovery-System VuFind als zusammenhängende Prozesse erschliessen sich einem nun. Ich habe also doch so einiges gelernt in Bibliotheks- und Archivinformatik.
 
